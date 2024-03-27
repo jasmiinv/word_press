@@ -16,7 +16,7 @@ get_header();
             ?>
         </div>
 
-        <?php the_custom_header_markup(); ?>
+       <?php the_custom_header_markup(); ?>
         <!-- <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/map.svg" alt="hero"> -->
     </section>
     <main>
