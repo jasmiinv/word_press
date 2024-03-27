@@ -1,8 +1,7 @@
-<!DOCTYPE html>
-<!html <?php language_attributes();?>>
-<main>
-    <section class="products">
-        <h2>Featured Products</h2>
-
+<aside>
+    <section class="contact">
+        <h2>Contact Us</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, quos.</p>
+        <a href="#">Contact Us</a>
     </section>
-</main>
+</aside>
